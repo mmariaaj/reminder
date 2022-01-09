@@ -1,0 +1,19 @@
+{
+  "reminders": [
+    {
+      "name": "Buy some eggs",
+      "timestamp": "2021-11-10T13:00:00.141Z",
+      "id": 1
+    },
+    {
+      "name": "Wash dishes",
+      "timestamp": "2021-11-11T09:00:00.000Z",
+      "id": 3
+    },
+    {
+      "name": "Buy more eggs",
+      "timestamp": "2021-11-11T13:00:00.000Z",
+      "id": 4
+    }
+  ]
+}
